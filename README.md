@@ -1,4 +1,4 @@
-#Cloak: anonymous mental-wellbeing support (concept prototype)
+Cloak: anonymous mental-wellbeing support (concept prototype)
 
 Live demo: https://cloaksafe.netlify.app/
 
